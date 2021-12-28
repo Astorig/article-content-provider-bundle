@@ -1,0 +1,20 @@
+{
+    "name": "aleksey/article-content-provider-bundle",
+    "description": "Генератор контента статьи",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CatCasCarSymfony\\ArticleContentProviderBundle\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aleksey Ukhov",
+            "email": "a9086666032@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2.5"
+    }
+}
